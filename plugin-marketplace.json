@@ -1,0 +1,12 @@
+{
+  "marketplaces": [
+    {
+      "name": "wshobson/agents",
+      "repository": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "enabled": true,
+      "description": "Comprehensive collection of 63 specialized plugins for software development"
+    }
+  ]
+}
+
